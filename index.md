@@ -19,3 +19,17 @@ nahm den Posten des Anführers der Autobots an.
 * Fraktion: Autobot
 * Tätigkeit: Anführer der Autobots
 * Rang: Prime
+
+## Zitate
+
+> Autobots - Transformiert euch!
+
+> Das muss ein Irrtum sein. 
+> Prüfen Sie's nochmal nach.
+>  Und dann nochmal.
+
+> Und gerade als alle Hoffnung verloren schien, führte uns die Nachricht 
+> einer neuen Entdeckung zu einem unbekannten Planeten namens 'Erde'. 
+> Aber wir kamen zu spät.
+
+
