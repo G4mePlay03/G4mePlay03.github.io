@@ -7,3 +7,15 @@ unter dem Schutz des Schutzherren Megatron lagen. Nachdem Megatron von The Falle
 und zusammen mit ihm die Linie der Primes auslöschte, den AllSpark an sich reißen wollte, um
 auch andere Planeten zu erobern, bemerkte Optimus, dass er der Letzte der Linie entsprach und
 nahm den Posten des Anführers der Autobots an.
+
+## Eigenschaften
+* Rasse: Transformer
+* Geschlecht: Männlich
+* Größe: 11,5 m
+* Fahrzeuge
+  * Peterbilt 379
+  * Western Star 5700 Phantom Custom
+* Zustand: Lebend
+* Fraktion: Autobot
+* Tätigkeit: Anführer der Autobots
+* Rang: Prime
